@@ -1,6 +1,8 @@
 # parallel_lab_hust
 [简体中文](README.md) | [English](README-en.md)
+
 Implementation of simple algorithms in parallel.
+
 - Pascal's triangle
 - Merge sort
 ## Tools
